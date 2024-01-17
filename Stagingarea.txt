@@ -1,0 +1,2 @@
+Hi!!This is the file to be loaded into staging area.
+To check the file is un committed
